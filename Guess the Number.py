@@ -22,5 +22,4 @@ def guess_the_number():
         except ValueError:
             print("Invalid input. Please enter a number.")
 
-# Run the game
 guess_the_number()
