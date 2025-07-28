@@ -28,5 +28,4 @@ def rock_paper_scissors():
         else:
             print("😢 You lose!")
 
-# Run the game
 rock_paper_scissors()
